@@ -1,0 +1,8 @@
+data:
+
+  index:
+    train: "data/index/train.csv"
+    val: "data/index/val.csv"
+    test: "data/index/test.csv"
+
+  
