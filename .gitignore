@@ -133,3 +133,5 @@ dmypy.json
 
 # Data Folder
 data/
+lightning_logs/
+outputs/
